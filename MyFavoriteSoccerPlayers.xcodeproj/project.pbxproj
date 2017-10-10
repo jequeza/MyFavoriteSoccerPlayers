@@ -13,6 +13,16 @@
 		0A11BF341F8C5F0800977A35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A11BF321F8C5F0800977A35 /* Main.storyboard */; };
 		0A11BF361F8C5F0800977A35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A11BF351F8C5F0800977A35 /* Assets.xcassets */; };
 		0A11BF391F8C5F0800977A35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A11BF371F8C5F0800977A35 /* LaunchScreen.storyboard */; };
+		0AB3B2C21F8C6B6A00A974ED /* Thierry Henry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2B81F8C6B6900A974ED /* Thierry Henry.jpg */; };
+		0AB3B2C31F8C6B6A00A974ED /* Cuauhtemoc Blanco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2B91F8C6B6900A974ED /* Cuauhtemoc Blanco.jpg */; };
+		0AB3B2C41F8C6B6A00A974ED /* Ronaldinho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BA1F8C6B6900A974ED /* Ronaldinho.jpg */; };
+		0AB3B2C51F8C6B6A00A974ED /* Petr Cech.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BB1F8C6B6900A974ED /* Petr Cech.jpg */; };
+		0AB3B2C61F8C6B6A00A974ED /* Gianluigi Buffon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BC1F8C6B6900A974ED /* Gianluigi Buffon.jpg */; };
+		0AB3B2C71F8C6B6A00A974ED /* Lionel Messi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BD1F8C6B6A00A974ED /* Lionel Messi.jpg */; };
+		0AB3B2C81F8C6B6A00A974ED /* Ronaldo Nazario.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BE1F8C6B6A00A974ED /* Ronaldo Nazario.jpg */; };
+		0AB3B2C91F8C6B6A00A974ED /* Zlatan Ibrahimovic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2BF1F8C6B6A00A974ED /* Zlatan Ibrahimovic.jpg */; };
+		0AB3B2CA1F8C6B6A00A974ED /* Cristiano Ronaldo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2C01F8C6B6A00A974ED /* Cristiano Ronaldo.jpg */; };
+		0AB3B2CB1F8C6B6A00A974ED /* Bastian Schweinsteiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AB3B2C11F8C6B6A00A974ED /* Bastian Schweinsteiger.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		0A11BF351F8C5F0800977A35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A11BF381F8C5F0800977A35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A11BF3A1F8C5F0800977A35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AB3B2B81F8C6B6900A974ED /* Thierry Henry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thierry Henry.jpg"; sourceTree = "<group>"; };
+		0AB3B2B91F8C6B6900A974ED /* Cuauhtemoc Blanco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cuauhtemoc Blanco.jpg"; sourceTree = "<group>"; };
+		0AB3B2BA1F8C6B6900A974ED /* Ronaldinho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ronaldinho.jpg; sourceTree = "<group>"; };
+		0AB3B2BB1F8C6B6900A974ED /* Petr Cech.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Petr Cech.jpg"; sourceTree = "<group>"; };
+		0AB3B2BC1F8C6B6900A974ED /* Gianluigi Buffon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gianluigi Buffon.jpg"; sourceTree = "<group>"; };
+		0AB3B2BD1F8C6B6A00A974ED /* Lionel Messi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lionel Messi.jpg"; sourceTree = "<group>"; };
+		0AB3B2BE1F8C6B6A00A974ED /* Ronaldo Nazario.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ronaldo Nazario.jpg"; sourceTree = "<group>"; };
+		0AB3B2BF1F8C6B6A00A974ED /* Zlatan Ibrahimovic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Zlatan Ibrahimovic.jpg"; sourceTree = "<group>"; };
+		0AB3B2C01F8C6B6A00A974ED /* Cristiano Ronaldo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cristiano Ronaldo.jpg"; sourceTree = "<group>"; };
+		0AB3B2C11F8C6B6A00A974ED /* Bastian Schweinsteiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bastian Schweinsteiger.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +60,7 @@
 		0A11BF201F8C5F0800977A35 = {
 			isa = PBXGroup;
 			children = (
+				0AB3B2B71F8C6B4D00A974ED /* Photos */,
 				0A11BF2B1F8C5F0800977A35 /* MyFavoriteSoccerPlayers */,
 				0A11BF2A1F8C5F0800977A35 /* Products */,
 			);
@@ -65,6 +86,23 @@
 				0A11BF3A1F8C5F0800977A35 /* Info.plist */,
 			);
 			path = MyFavoriteSoccerPlayers;
+			sourceTree = "<group>";
+		};
+		0AB3B2B71F8C6B4D00A974ED /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				0AB3B2C11F8C6B6A00A974ED /* Bastian Schweinsteiger.jpg */,
+				0AB3B2C01F8C6B6A00A974ED /* Cristiano Ronaldo.jpg */,
+				0AB3B2B91F8C6B6900A974ED /* Cuauhtemoc Blanco.jpg */,
+				0AB3B2BC1F8C6B6900A974ED /* Gianluigi Buffon.jpg */,
+				0AB3B2BD1F8C6B6A00A974ED /* Lionel Messi.jpg */,
+				0AB3B2BB1F8C6B6900A974ED /* Petr Cech.jpg */,
+				0AB3B2BA1F8C6B6900A974ED /* Ronaldinho.jpg */,
+				0AB3B2BE1F8C6B6A00A974ED /* Ronaldo Nazario.jpg */,
+				0AB3B2B81F8C6B6900A974ED /* Thierry Henry.jpg */,
+				0AB3B2BF1F8C6B6A00A974ED /* Zlatan Ibrahimovic.jpg */,
+			);
+			path = Photos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,9 +164,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AB3B2C31F8C6B6A00A974ED /* Cuauhtemoc Blanco.jpg in Resources */,
 				0A11BF391F8C5F0800977A35 /* LaunchScreen.storyboard in Resources */,
+				0AB3B2C21F8C6B6A00A974ED /* Thierry Henry.jpg in Resources */,
+				0AB3B2CB1F8C6B6A00A974ED /* Bastian Schweinsteiger.jpg in Resources */,
 				0A11BF361F8C5F0800977A35 /* Assets.xcassets in Resources */,
+				0AB3B2C61F8C6B6A00A974ED /* Gianluigi Buffon.jpg in Resources */,
+				0AB3B2C71F8C6B6A00A974ED /* Lionel Messi.jpg in Resources */,
+				0AB3B2C51F8C6B6A00A974ED /* Petr Cech.jpg in Resources */,
+				0AB3B2CA1F8C6B6A00A974ED /* Cristiano Ronaldo.jpg in Resources */,
+				0AB3B2C91F8C6B6A00A974ED /* Zlatan Ibrahimovic.jpg in Resources */,
 				0A11BF341F8C5F0800977A35 /* Main.storyboard in Resources */,
+				0AB3B2C41F8C6B6A00A974ED /* Ronaldinho.jpg in Resources */,
+				0AB3B2C81F8C6B6A00A974ED /* Ronaldo Nazario.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +328,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MyFavoriteSoccerPlayers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavoriteSoccerPlayers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -294,6 +343,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MyFavoriteSoccerPlayers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavoriteSoccerPlayers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
